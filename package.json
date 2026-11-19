@@ -1,0 +1,12 @@
+{
+  "name": "aung-ai-studio",
+  "version": "1.0.0",
+  "description": "AUNG AI Studio Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
